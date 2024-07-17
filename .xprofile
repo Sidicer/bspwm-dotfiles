@@ -1,1 +1,2 @@
+~/.config/polybar/launch.sh &
 feh --bg-fill ~/pictures/peakpx.jpg &
